@@ -19,6 +19,9 @@ ImportUserCSV.zip
    - In the WordPress admin menu, go to **Users > Import Users CSV**.
    - Upload your CSV file and start the import process.
 
+**Result**
+![Result import csv](https://i.imgur.com/TWmZVXJ.png)
+
 **CSV file requirements:**
 - The first row must contain column headers.
 - Use a semicolon `;` as the separator.
