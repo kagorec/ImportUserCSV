@@ -7,7 +7,7 @@
 
 ImportUserCSV.zip
 └── import-user-csv/
-    └── init.php
+   └── init.php
 
 
 2. **Upload to WordPress**
