@@ -20,7 +20,7 @@ ImportUserCSV.zip
 
 **CSV file requirements:**
 - The first row must contain column headers.
-- Use a semicolon (`;`) as the separator.
+- Use a semicolon `;` as the separator.
 
 ## Plugin Features
 
@@ -29,7 +29,7 @@ ImportUserCSV.zip
 - **Metadata Support:** Fill in all standard user fields (login, email, name, nickname, description, website, etc.) and popular social network links.
 - **Transliteration:** Automatically transliterates Cyrillic names to Latin for logins and nicknames if needed.
 - **Smart Update:** If a user already exists, only missing fields are updated—no data is overwritten unnecessarily.
-- **Admin Interface:** Simple, user-friendly admin page for uploading CSV files and tracking import results.
+- **Admin Interface:** Simple, user -friendly admin page for uploading CSV files and tracking import results.
 - **Error Reporting:** Detailed error messages and import statistics are shown after each import.
 - **No Language Dependencies:** All interface and messages are in English, no translation files required.
 
