@@ -5,6 +5,11 @@
 1. **Download the Plugin**
    - Download the `ImportUserCSV` plugin as a ZIP archive or clone this repository to your local machine.
 
+ImportUserCSV.zip
+└── import-user-csv/
+    └── init.php
+
+
 2. **Upload to WordPress**
    - Go to ../wp-admin/plugin-install.php
    - Select **ImportUserCSV.zip** and after click to **Activate**.
